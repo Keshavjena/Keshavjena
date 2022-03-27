@@ -1,3 +1,0 @@
-##Python code
-
-print("Supremacy")
