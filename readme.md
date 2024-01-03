@@ -2,11 +2,38 @@
 
 I am a dedicated and aspiring computer science student With a focus on continuous learning and a passion for technology, I am committed to refining my skills in software development. I am enthusiastic about contributing to the dynamic and evolving landscape of computer science.
 
+## Currently Working On
+- Mastering the art of full-stack web development.
+- Exploring the depths of cybersecurity to enhance digital safety.
+- Engaging in research projects that push the boundaries of technology.
+
+## Skills
+### Full Stack Web Development
+- HTML5, CSS3, JavaScript
+- Front-end frameworks: React, Vue
+- Back-end technologies: Node.js, Express
+- Database management: MongoDB, MySQL
+
+### Cybersecurity
+- Network security: Firewalls, VPNs
+- Ethical hacking and penetration testing
+- Encryption techniques and protocols
+- Incident response and threat detection
+
+### Research
+- Identifying and solving complex problems
+- Staying updated on the latest technological advancements
+- Analyzing data and drawing meaningful insights
+
+## Collaboration
+I'm open to collaborating on exciting projects and contributing to the tech community. Feel free to reach out for discussions, collaborations, or just to geek out about the latest tech trends!
+
 ## My Socials
 
-- [Twitter](https://twitter.com/keshav29903)
-- [LinkedIn](https://www.linkedin.com/in/keshav29903/)
-- [GitHub](https://github.com/Keshavjena)
+- [![Twitter](https://img.shields.io/badge/Twitter-keshav29903-blue?style=for-the-badge&logo=twitter)](https://twitter.com/keshav29903)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-KeshavJena-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keshav29903/)
+- [![GitHub](https://img.shields.io/badge/GitHub-keshav29903-black?style=for-the-badge&logo=github)](https://github.com/Keshavjena)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-KeshavJena-orange?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
 ## Programming Languages and Tools
 
