@@ -34,4 +34,5 @@ I am a dedicated and aspiring computer science student With a focus on continuou
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keshavjena&show_icons=true&theme=radical)
+![Your GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Keshavjena&show_icons=true&theme=dark#gh-dark-mode-only)
+![Your GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Keshavjena&show_icons=true&theme=default#gh-light-mode-only)
