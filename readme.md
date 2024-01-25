@@ -57,7 +57,9 @@ I'm open to collaborating on exciting projects and contributing to the tech comm
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Stats
+<!--- ## GitHub Stats
 
 [![Keshav Jena GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Keshavjena&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Keshavjena#gh-dark-mode-only)
-[![Keshav Jena GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Keshavjena&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Keshavjena#gh-light-mode-only)
+[![Keshav Jena GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Keshavjena&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Keshavjena#gh-light-mode-only)-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=19&pause=1000&random=false&width=435&lines=Quiet+grind%2C+steady+vibes%2C+no+fuss.)](https://git.io/typing-svg)
